@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">List View 2 (Top10)</string>
+    <string-array name="movie_title">
+        <item> Hassan Muayad </item>
+        <item> The Shawshank Redemption </item>
+        <item> The Good Father part II </item>
+        <item> Fight Club </item>
+        <item> The Dark Knight </item>
+        <item>  Inception </item>
+        <item> 12 Angry Men </item>
+        <item> The Lord of the Rings: The Fellowship of the Ring </item>
+        <item> Se7en </item>
+        <item> The Matrix </item>
+        <item> البدلة </item>
+        <item> Harry Potter </item>
+    </string-array>
+    <string-array name="rating">
+        <item>9.2/10</item>
+        <item>9.3/10</item>
+        <item>9/10</item>
+        <item>8.8/10</item>
+        <item>8.8/10</item>
+        <item>9/10</item>
+        <item>8.8/10</item>
+        <item>8.9/10</item>
+        <item>8.7/10</item>
+        <item>8.6/10</item>
+        <item>6.3/10</item>
+        <item>7.6/10</item>
+    </string-array>
+</resources>
