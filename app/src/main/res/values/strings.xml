@@ -1,7 +1,15 @@
 <resources>
-    <string name="app_name">List View 2 (Top10)</string>
+    <string name="app_name">IMDb Top 10</string>
+
+    <string name="title_search">Search</string>
+    <string name="title_share">Share</string>
+
+    <string name="Watch">Watch</string>
+    <string name="Add_to">Add to play list</string>
+    <string name="See">See Later</string>
+
     <string-array name="movie_title">
-        <item> Hassan Muayad </item>
+        <item> The Good Father </item>
         <item> The Shawshank Redemption </item>
         <item> The Good Father part II </item>
         <item> Fight Club </item>

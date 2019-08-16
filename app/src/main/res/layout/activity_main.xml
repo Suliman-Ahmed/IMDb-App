@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#8c8c8c"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:id="@+id/Ol">
 
     <ListView
         android:id="@+id/list_view"
